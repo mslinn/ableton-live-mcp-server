@@ -49,7 +49,7 @@ This project consists of two main components:
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mcp_ableton_server.git
+   git clone https://github.com/Simon-Kansara/ableton-live-mcp-server.git
    cd mcp_ableton_server
    ```
 
